@@ -8,6 +8,15 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    num: "03",
+    category: "Full Stack Developer",
+    title: "Food Delivery App",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "TypeScript" }, { name: "React.js" }, { name: "Node.js" }, { name: "Redux" }, { name: "MongoDB" }, { name: "Express.js" }],
+    image: "/assets/projects/thumb2.png",
+    live: "https://food-frontend-kb1v.vercel.app/",
+    github: "https://github.com/utsav8196-del/Food-frontend",
+  },
+  {
     num: "01",
     category: "Frontend Developer",
     title: "E-Commerce Store",
@@ -32,20 +41,9 @@ const projects = [
    
     stack: [{ name: "Html" }, { name: "Css" }, { name: "JavaScript" }, { name: "React.js" }, { name: "Node.js" }, { name: "Redux" }],
     image: "/assets/projects/thumb6.png",
-    live: "https://go-service-0.vercel.app/",
+    live: "https://go-service-frontend-x7xq.vercel.app/",
     github: "https://github.com/utsav8196-del/Go-Service-Frontend",
-  }
-  // {
-  //   num: "04",
-  //   category: "fullstack",
-  //   title: "Mood Mapper",
-  //   description:
-  //     "A web application to track and analyze your mood throughout the days.",
-  //   stack: [{ name: "Next.js" }, { name: "TailwindCSS" }, { name: "Firebase" }],
-  //   image: "/assets/projects/thumb2.png",
-  //   live: "",
-  //   github: "",
-  // },
+  },
   // {
   //   num: "05",
   //   category: "frontend",
