@@ -7,6 +7,7 @@ import { fadeIn } from "@/lib/variants";
 // components
 import { Button } from "@/app/src/components/ui/button";
 import Social from "@/app/src/components/Social";
+import Photo from "@/app/src/components/Photo";
 import Stats from "@/app/src/components/Stats";
 
 const Home = () => {
@@ -20,6 +21,10 @@ const Home = () => {
       <div className="container mx-auto max-w-[1280px] flex-1 flex items-center">
         {/* main content */}
         <div className="flex flex-col xl:flex-row items-center justify-center xl:gap-[100px] w-full">
+          {/* photo */}
+          <div className="mb-8 xl:mb-0">
+            <Photo />
+          </div>
           {/* text */}
           <div className="flex flex-col gap-4 w-auto max-w-[585px] text-center xl:text-left">
             {/* hello */}
