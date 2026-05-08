@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: C:\Users\DELL\OneDrive\Desktop\New folder\portfolio-Utsav\app\page.jsx
+=======
+// File: D:\portfolio-Utsav-main\app\page.jsx
+>>>>>>> master
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

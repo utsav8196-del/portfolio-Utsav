@@ -44,6 +44,7 @@ const projects = [
     live: "https://go-service-frontend-x7xq.vercel.app/",
     github: "https://github.com/utsav8196-del/Go-Service-Frontend",
   },
+<<<<<<< HEAD
   // {
   //   num: "05",
   //   category: "frontend",
@@ -55,6 +56,19 @@ const projects = [
   //   live: "",
   //   github: "",
   // },
+=======
+  {
+    num: "05",
+    category: "Full Stack Developer",
+    title: "StackChat",
+    description:
+      "You might be trying to sort conversations by date, name, or activity.",
+    stack: [{ name: "React.js" }, { name: "TailwindCSS" }, { name: "Vite" }],
+    image: "/assets/projects/thumb1.png",
+    live: "https://chat-f-beta.vercel.app//",
+    github: "https://github.com/utsav8196-del/chat-f",
+  },
+>>>>>>> master
 
 ];
 
