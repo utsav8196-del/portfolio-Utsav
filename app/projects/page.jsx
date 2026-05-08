@@ -44,19 +44,6 @@ const projects = [
     live: "https://go-service-frontend-x7xq.vercel.app/",
     github: "https://github.com/utsav8196-del/Go-Service-Frontend",
   },
-<<<<<<< HEAD
-  // {
-  //   num: "05",
-  //   category: "frontend",
-  //   title: "E-commerce Store",
-  //   description:
-  //     "A responsive e-commerce store to browse, view, and favorite products.",
-  //   stack: [{ name: "React.js" }, { name: "TailwindCSS" }, { name: "Vite" }],
-  //   image: "/assets/projects/thumb3.png",
-  //   live: "",
-  //   github: "",
-  // },
-=======
   {
     num: "05",
     category: "Full Stack Developer",
@@ -68,7 +55,6 @@ const projects = [
     live: "https://chat-f-beta.vercel.app//",
     github: "https://github.com/utsav8196-del/chat-f",
   },
->>>>>>> master
 
 ];
 
