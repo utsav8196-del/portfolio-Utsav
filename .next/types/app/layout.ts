@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// File: C:\Users\DELL\OneDrive\Desktop\New folder\portfolio-Utsav\app\layout.jsx
-=======
 // File: D:\portfolio-Utsav-main\app\layout.jsx
->>>>>>> master
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
